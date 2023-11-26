@@ -4,6 +4,10 @@
   "description": "Adds '~~' after checkbox [ ] and at the end of the current line",
   "version": "1.0.0",
   "publisher": "brunohaetinger",
+  "repository": {
+    "url": "https://github.com/brunohaetinger/md-vscode-extension.git",
+    "type": "git"
+  },
   "main": "./extension.js",
   "engines": {
     "vscode": "^1.60.0"
